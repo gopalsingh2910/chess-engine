@@ -24,8 +24,8 @@ Once the game starts, players take turn one by one. On invalid moves, pop up mes
 Player can also set flip mode on to flip the board at each turn
 
 ## *Prerequisites*
-Java Runtime Environment (JRE) or Java Development Kit (JDK)
-An IDE like eclipse or IntelliJ(recommended) to work smoothly.
+ - Java Runtime Environment (JRE) or Java Development Kit (JDK);
+ - An IDE like eclipse or IntelliJ(recommended) to work smoothly;
 
 ## *Algorithm*
 The algorithm implemented in this chess code is [minimax algorithm](https://www.chessprogramming.org/Minimax) where the computer thinks all posiible game moves it can play and in turn generates moves which opponent can play in response to each move and like this the entire game tree is generated. The tree is generated to maximum depth of 4, which can be adjusted by deciding level of game. Diffcult the level, higher is game tree depth. At so called leaf node, the computer looks at game state and assigns some score to it by some heuristics.
