@@ -5,14 +5,14 @@ This is a basic Chess engine
 A Java-based chess engine for two players, featuring a graphical user interface and enforcing standard chess rules.
 
 ## *Initial Game State:*
-R KN B K Q B KN R
-P P  P P P P P  P
-. .  . . . . .  .
-. .  . . . . .  .
-. .  . . . . .  .
-. .  . . . . .  .
-P P  P P P P P  P
-R KN B K Q B KN R
+R Kn B K Q B Kn R<br/>
+P P  P P P P P  P<br/>
+. .  . . . . .  .<br/>
+. .  . . . . .  .<br/>
+. .  . . . . .  .<br/>
+. .  . . . . .  .<br/>
+P P  P P P P P  P<br/>
+R Kn B K Q B Kn R<br/>
 
 
 ## *Features*
@@ -72,12 +72,15 @@ To evaluate game state, the numbe rof pieces which are left are used and the sco
 score = (check score) * (# checks given) + Σ (# piece of one type) * (score of this piece type)
 
 ## *Running*
-The main method is contained in src/gui/JChess.java.
+The main method is contained in src/gui/JChess.java.<br/>
 The code begin from this main method.
 
 ## *Snippets*
 
-
+![alt_img](images/Screenshot 2025-06-10 212552.png)
+![alt_img](images/Screenshot 2025-06-10 212620.png)
+![alt_img](images/Screenshot 2025-06-10 213142.png)
+![alt_img](images/Screenshot 2025-06-10 213251.png)
 
 
 
