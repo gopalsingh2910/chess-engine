@@ -1,7 +1,4 @@
 # Chess-engine
-This is a basic Chess engine
-
-## *Overview*
 A Java-based chess engine for two players, featuring a graphical user interface and enforcing standard chess rules.
 
 ## *Initial Game State:*
