@@ -6,12 +6,12 @@ A Java-based chess engine for two players, featuring a graphical user interface 
 
 ## *Initial Game State:*
 R Kn B K Q B Kn R<br/>
-P P  P P P P P  P<br/>
-. .  . . . . .  .<br/>
-. .  . . . . .  .<br/>
-. .  . . . . .  .<br/>
-. .  . . . . .  .<br/>
-P P  P P P P P  P<br/>
+P P   P P P P P    P<br/>
+. .  . . . . .  . . .  . . . . .  .<br/>
+. .  . . . . .  . . .  . . . . .  .<br/>
+. .  . . . . .  . . .  . . . . .  .<br/>
+. .  . . . . .  . . .  . . . . .  .<br/>
+P P   P P P P P    P<br/>
 R Kn B K Q B Kn R<br/>
 
 
@@ -77,10 +77,8 @@ The code begin from this main method.
 
 ## *Snippets*
 
-![alt_img](images/Screenshot 2025-06-10 212552.png)
-![alt_img](images/Screenshot 2025-06-10 212620.png)
-![alt_img](images/Screenshot 2025-06-10 213142.png)
-![alt_img](images/Screenshot 2025-06-10 213251.png)
-
-
+![alt_img](https://github.com/gopalsingh2910/chess-engine/blob/main/images/Screenshot%202025-06-10%20212552.png)
+![alt_img](https://github.com/gopalsingh2910/chess-engine/blob/main/images/Screenshot%202025-06-10%20212620.png)
+![alt_img](https://github.com/gopalsingh2910/chess-engine/blob/main/images/Screenshot%202025-06-10%20213142.png)
+![alt_img](https://github.com/gopalsingh2910/chess-engine/blob/main/images/Screenshot%202025-06-10%20213251.png)
 
