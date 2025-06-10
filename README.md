@@ -6,12 +6,12 @@ A Java-based chess engine for two players, featuring a graphical user interface 
 
 ## *Initial Game State:*
 R Kn B K Q B Kn R<br/>
-P P   P P P P P    P<br/>
-. .  . . . . .  . . .  . . . . .  .<br/>
-. .  . . . . .  . . .  . . . . .  .<br/>
-. .  . . . . .  . . .  . . . . .  .<br/>
-. .  . . . . .  . . .  . . . . .  .<br/>
-P P   P P P P P    P<br/>
+P P &nbsp; P P P P P &nbsp; P<br/>
+. .  . . . . . . . . . . . . . . . .<br/>
+. .  . . . . . . . . . . . . . . . .<br/>
+. .  . . . . . . . . . . . . . . . .<br/>
+. .  . . . . . . . . . . . . . . . .<br/>
+P P &nbsp; P P P P P &nbsp; P<br/>
 R Kn B K Q B Kn R<br/>
 
 
